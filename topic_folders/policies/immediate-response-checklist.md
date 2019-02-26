@@ -1,4 +1,4 @@
-## Carpentries Staff Immediate Response Checklist
+## The Carpentries Termed Suspension Checklist
 
 When a Code of Conduct (CoC) violation is found, one course of action is that activities in Carpentries channels (in-person and virtual) are monitored. In other cases, the community member is asked to take a termed suspension. When this is the resolution of the CoC committee, the following boundaries are enforced. The checklist below was created for incidents that require an immediate response, i.e. the community member is removed from all Carpentries engagement.
 
