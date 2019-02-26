@@ -75,4 +75,4 @@ If the suspended member is a member of the Executive Council, they will not part
 ### Committees, Task Forces, and Other Interactions
 Involvement in all committees, communities, and task forces (African Task Force, Carpentries en LatinoAmérica, etc.) will be suspended. 
 
-- [ ] The suspended members ability to sign in to AMY to manage their own profile or other tasks will be revoked for the duration of their suspension.
+- [ ] The suspended member's ability to sign in to AMY to manage their own profile or other tasks will be revoked for the duration of their suspension.
